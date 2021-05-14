@@ -1,4 +1,6 @@
 
+***
+
 What is Microsoft Teams?
 
 Microsoft teams is one of the popular business communication platforms developed by Microsoft corporations. This is also considered to be a part of the Microsoft 365 tool. The main purpose of Microsoft Teams is to organize the teams, video conferencing, file storage, and meetings. 
