@@ -5,6 +5,7 @@ Microsoft teams is one of the popular business communication platforms developed
 
 
 How to install Microsoft Teams?
+
 Below are the important steps involved:
 1. Go to the play store to download the Microsoft teams (This is for mobile devices).
 2. Then go to free download of MST -> then click on download option.
